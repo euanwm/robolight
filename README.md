@@ -2,7 +2,7 @@
 
 __Problem__: My partner doesn't know when i'm in meetings as my office is on a different floor
 
-__Solution__: Install on "on-air" light
+__Solution__: Install an "on-air" light
 
 ## The Plan
 - Buy a light bulb
